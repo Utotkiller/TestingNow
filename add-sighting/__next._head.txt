@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[97367,["/TestingNow/_next/static/chunks/0l8hqjm1eyhz5.js","/TestingNow/_next/static/chunks/031d4hdncmqdj.js"],"ViewportBoundary"]
+3:I[97367,["/TestingNow/_next/static/chunks/0l8hqjm1eyhz5.js","/TestingNow/_next/static/chunks/031d4hdncmqdj.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[27201,["/TestingNow/_next/static/chunks/0l8hqjm1eyhz5.js","/TestingNow/_next/static/chunks/031d4hdncmqdj.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Add Sighting | WhisMap"}],["$","meta","1",{"name":"description","content":"A privacy-first space for community cat care, protected lost-cat reporting, and personal cat routines."}],["$","link","2",{"rel":"icon","href":"/TestingNow/favicon.svg"}],["$","$L5","3",{}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"FJUJFo7j3eO5QgBPjdlXQ"}

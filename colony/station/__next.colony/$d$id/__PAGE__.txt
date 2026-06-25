@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[72163,["/TestingNow/_next/static/chunks/0l8hqjm1eyhz5.js","/TestingNow/_next/static/chunks/031d4hdncmqdj.js","/TestingNow/_next/static/chunks/3emsm567at28o.js"],"default"]
+3:I[97367,["/TestingNow/_next/static/chunks/0l8hqjm1eyhz5.js","/TestingNow/_next/static/chunks/031d4hdncmqdj.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"px-4 pb-10 pt-7 sm:px-6 sm:pt-9","children":["$","div",null,{"className":"mx-auto max-w-[1400px]","children":["$","$L2",null,{"colony":{"id":"station","name":"South Station Steps","distance":5.9,"status":"review","cats":4,"lastFed":"Unverified sighting","x":71,"y":58,"note":"New report awaiting moderator review. Public location is approximate."}}]}]}],[["$","script","script-0",{"src":"/TestingNow/_next/static/chunks/3emsm567at28o.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"FJUJFo7j3eO5QgBPjdlXQ"}
+5:null
