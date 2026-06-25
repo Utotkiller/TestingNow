@@ -22,7 +22,7 @@ export default function Footer() {
         <div><p className="wm-footer-heading">Safety</p><div className="mt-3 grid gap-2">{safetyLinks.map((link) => <Link key={link.href} href={link.href} className="wm-footer-link">{link.label}</Link>)}</div></div>
         <div className="wm-footer-cta"><MapPin className="h-5 w-5 text-wm-action" /><p className="mt-3 text-sm font-black text-wm-ink">Start with an approximate area.</p><p className="mt-1 text-xs leading-relaxed text-wm-muted">Public location cards should never expose private homes, feeding schedules, or a cat’s exact hiding place.</p><Link href="/map" className="mt-4 inline-flex items-center gap-2 text-xs font-black text-wm-action hover:underline">Open map <MapPin className="h-3.5 w-3.5" /></Link></div>
       </div>
-      <div className="border-t border-wm-line"><div className="mx-auto flex max-w-[1440px] flex-col gap-1 px-4 py-4 text-xs text-wm-muted sm:flex-row sm:items-center sm:justify-between sm:px-6"><span>© 2026 WhisMap prototype.</span><span className="inline-flex items-center gap-1.5"><AlertTriangle className="h-3.5 w-3.5" /> Prototype UI: moderation, accounts, and secure contact delivery require a backend.</span></div></div>
+      <div className="border-t border-wm-line"><div className="mx-auto flex max-w-[1440px] flex-col gap-1 px-4 py-4 text-xs text-wm-muted sm:flex-row sm:items-center sm:justify-between sm:px-6"><span>© 2026 WhisMap prototype.</span><span className="inline-flex items-center gap-1.5"><AlertTriangle className="h-3.5 w-3.5" /> JOHN ANDREI TUBOLITOS</span></div></div>
     </footer>
   )
 }
